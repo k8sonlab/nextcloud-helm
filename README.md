@@ -1,4 +1,4 @@
-# Nextcloud Helm Charts
+# Nextcloud Helm Charts - forked from original helm
 
 [Helm](https://helm.sh) repo for different charts related to Nextcloud which can be installed on [Kubernetes](https://kubernetes.io)
 
@@ -7,7 +7,7 @@
 To install the repo just run:
 
 ```bash
-helm repo add nextcloud https://nextcloud.github.io/helm/
+helm repo add nextcloud https://k8sonlab.github.io/nextcloud-helm/
 helm repo update
 ```
 
