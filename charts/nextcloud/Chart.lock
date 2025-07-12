@@ -7,9 +7,9 @@ dependencies:
   version: 20.5.9
 - name: redis
   repository: oci://registry-1.docker.io/bitnamicharts
-  version: 21.1.3
+  version: 21.2.10
 - name: collabora-online
   repository: https://collaboraonline.github.io/online
   version: 1.1.43
-digest: sha256:42baec0bce4f047969c71abfd15aa43ceeb1b4dacebb1c00c55779c84ea2843f
-generated: "2025-07-12T06:59:09.107772573+03:00"
+digest: sha256:8e6cadf00ee1d98159e2e6de7ca6b03e8409ade0940968f00111de7da0ecd3f7
+generated: "2025-07-12T04:08:19.179500681Z"
